@@ -44,8 +44,17 @@ Always experimenting, always shipping.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mandalswarnim&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandalswarnim&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mandalswarnim&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mandalswarnim&theme=github_dark" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mandalswarnim&theme=github_dark" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mandalswarnim&theme=github_dark" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mandalswarnim&theme=github_dark&utcOffset=0" height="170" />
 </p>
 
 <p align="center">
