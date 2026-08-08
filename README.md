@@ -53,7 +53,7 @@ Always experimenting, always shipping.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mandalswarnim&theme=github_dark" height="170" />
+  <img src="./assets/top-languages-by-repo.svg" height="170" alt="Top languages by repo with distinct colors" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mandalswarnim&theme=github_dark&utcOffset=0" height="170" />
 </p>
 

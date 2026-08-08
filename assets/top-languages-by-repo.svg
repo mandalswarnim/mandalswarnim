@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="200" viewBox="0 0 340 200" role="img" aria-labelledby="title desc">
+  <title id="title">Top Languages by Repo</title>
+  <desc id="desc">Custom donut chart showing primary languages across public repositories with distinct colors for TypeScript and Python.</desc>
+  <style>
+    .title { font: 600 22px "Segoe UI", Ubuntu, "Helvetica Neue", Sans-Serif; fill: #0366d6; }
+    .subtitle { font: 400 11px "Segoe UI", Ubuntu, "Helvetica Neue", Sans-Serif; fill: #77909c; }
+    .label { font: 400 13px "Segoe UI", Ubuntu, "Helvetica Neue", Sans-Serif; fill: #c9d1d9; }
+    .value { font: 600 12px "Segoe UI", Ubuntu, "Helvetica Neue", Sans-Serif; fill: #8b949e; text-anchor: end; }
+    .center-top { font: 700 22px "Segoe UI", Ubuntu, "Helvetica Neue", Sans-Serif; fill: #c9d1d9; text-anchor: middle; }
+    .center-bottom { font: 400 10px "Segoe UI", Ubuntu, "Helvetica Neue", Sans-Serif; fill: #8b949e; text-anchor: middle; letter-spacing: 0.8px; }
+  </style>
+  <rect x="1" y="1" width="338" height="198" rx="6" fill="#0d1117" stroke="#2e343b" />
+  <text x="30" y="40" class="title">Top Languages by Repo</text>
+  <text x="30" y="56" class="subtitle">Primary language across 13 public repos with detected language</text>
+  <rect x="36" y="58" width="12" height="12" rx="2" fill="#3178C6" stroke="#0d1117" /><text x="56" y="68" class="label">TypeScript</text><text x="184" y="68" class="value">4 repos</text>
+  <rect x="36" y="86" width="12" height="12" rx="2" fill="#8CC84B" stroke="#0d1117" /><text x="56" y="96" class="label">Python</text><text x="184" y="96" class="value">4 repos</text>
+  <rect x="36" y="114" width="12" height="12" rx="2" fill="#DA5B0B" stroke="#0d1117" /><text x="56" y="124" class="label">Jupyter Notebook</text><text x="184" y="124" class="value">3 repos</text>
+  <rect x="36" y="142" width="12" height="12" rx="2" fill="#F1E05A" stroke="#0d1117" /><text x="56" y="152" class="label">JavaScript</text><text x="184" y="152" class="value">2 repos</text>
+  <g>
+    <path d="M 246.00 62.00 A 56 56 0 0 1 298.36 137.86 L 275.92 129.35 A 32 32 0 0 0 246.00 86.00 Z" fill="#3178C6" stroke="#0d1117" stroke-width="2" />
+    <path d="M 298.36 137.86 A 56 56 0 0 1 208.87 159.92 L 224.78 141.95 A 32 32 0 0 0 275.92 129.35 Z" fill="#8CC84B" stroke="#0d1117" stroke-width="2" />
+    <path d="M 208.87 159.92 A 56 56 0 0 1 199.91 86.19 L 219.66 99.82 A 32 32 0 0 0 224.78 141.95 Z" fill="#DA5B0B" stroke="#0d1117" stroke-width="2" />
+    <path d="M 199.91 86.19 A 56 56 0 0 1 246.00 62.00 L 246.00 86.00 A 32 32 0 0 0 219.66 99.82 Z" fill="#F1E05A" stroke="#0d1117" stroke-width="2" />
+    <circle cx="246" cy="118" r="30" fill="#0d1117" />
+    <text x="246" y="116" class="center-top">13</text>
+    <text x="246" y="132" class="center-bottom">REPOS</text>
+  </g>
+</svg>
