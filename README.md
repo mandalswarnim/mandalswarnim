@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://swarnimmandal.me/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=AI+Engineer+building+end-to-end+intelligent+systems;LLMs+%E2%9A%A1+Full-stack+%E2%9A%A1+Real+products;Always+experimenting%2C+always+shipping." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=40&lines=AI+Engineer+building+end-to-end+intelligent+systems;LLMs+%E2%9A%A1+Full-stack+%E2%9A%A1+Real+products;Always+experimenting%2C+always+shipping." alt="Typing SVG" />
   </a>
 </p>
 
@@ -48,22 +48,25 @@ Always experimenting, always shipping.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mandalswarnim&theme=github_dark" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mandalswarnim&theme=github_dark" height="170" />
+  <img src="./assets/top-languages-by-repo.svg" height="175" alt="Top languages by repo with distinct colors" />
+  <img src="./assets/top-languages-by-commit.svg" height="175" alt="Top languages by commit with distinct colors" />
 </p>
 
 <p align="center">
-  <img src="./assets/top-languages-by-repo.svg" height="170" alt="Top languages by repo with distinct colors" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mandalswarnim&theme=github_dark&utcOffset=0" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mandalswarnim&theme=github_dark" height="175" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mandalswarnim&theme=github_dark&utcOffset=0" height="175" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mandalswarnim&theme=github-dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
+  <img src="https://streak-stats.demolab.com?user=mandalswarnim&theme=github-dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" height="175" alt="GitHub streak stats" />
 </p>
 
+<!-- Trophy card disabled: github-profile-trophy.vercel.app is returning HTTP 402
+     (deployment over quota), which renders as a broken image. Re-enable when it recovers.
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mandalswarnim&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
+-->
 
 ---
 
