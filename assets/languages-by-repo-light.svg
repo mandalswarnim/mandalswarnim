@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="190" viewBox="0 0 400 190" role="img" aria-labelledby="t d">
+  <title id="t">Languages by repository</title>
+  <desc id="d">Donut chart of repos per language, one distinct color each.</desc>
+  <style>
+    .title { font: 600 15px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Helvetica, Arial, sans-serif; fill: #1f2328; }
+    .subtitle { font: 400 11px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Helvetica, Arial, sans-serif; fill: #818b98; }
+    .label { font: 400 12.5px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Helvetica, Arial, sans-serif; fill: #59636e; }
+    .value { font: 500 12.5px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Helvetica, Arial, sans-serif; fill: #1f2328; text-anchor: end; }
+    .big { font: 600 22px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Helvetica, Arial, sans-serif; fill: #1f2328; text-anchor: middle; }
+    .unit { font: 400 8.5px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Helvetica, Arial, sans-serif; fill: #818b98; text-anchor: middle; letter-spacing: 1.2px; }
+  </style>
+  <rect x="0.5" y="0.5" width="399" height="189" rx="10" fill="#ffffff" stroke="#d8dee4" />
+  <text x="28" y="32" class="title">Languages by repository</text>
+  <text x="28" y="48" class="subtitle">Primary language across 13 public repos</text>
+  <circle cx="34" cy="67" r="5" fill="#4C7FBE" /><text x="50" y="71" class="label">TypeScript</text><text x="214" y="71" class="value">4</text>
+  <circle cx="34" cy="93" r="5" fill="#7FA65C" /><text x="50" y="97" class="label">Python</text><text x="214" y="97" class="value">4</text>
+  <circle cx="34" cy="119" r="5" fill="#C4703F" /><text x="50" y="123" class="label">Jupyter Notebook</text><text x="214" y="123" class="value">3</text>
+  <circle cx="34" cy="145" r="5" fill="#C2A44B" /><text x="50" y="149" class="label">JavaScript</text><text x="214" y="149" class="value">2</text>
+  <g>
+    <path d="M 312.00 52.00 A 56 56 0 0 1 364.36 127.86 L 342.86 119.70 A 33 33 0 0 0 312.00 75.00 Z" fill="#4C7FBE" stroke="#ffffff" stroke-width="2.5" />
+    <path d="M 364.36 127.86 A 56 56 0 0 1 274.87 149.92 L 290.12 132.70 A 33 33 0 0 0 342.86 119.70 Z" fill="#7FA65C" stroke="#ffffff" stroke-width="2.5" />
+    <path d="M 274.87 149.92 A 56 56 0 0 1 265.91 76.19 L 284.84 89.25 A 33 33 0 0 0 290.12 132.70 Z" fill="#C4703F" stroke="#ffffff" stroke-width="2.5" />
+    <path d="M 265.91 76.19 A 56 56 0 0 1 312.00 52.00 L 312.00 75.00 A 33 33 0 0 0 284.84 89.25 Z" fill="#C2A44B" stroke="#ffffff" stroke-width="2.5" />
+    <circle cx="312" cy="108" r="31" fill="#ffffff" />
+    <text x="312" y="109" class="big">13</text>
+    <text x="312" y="123" class="unit">REPOS</text>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="190" viewBox="0 0 400 190" role="img" aria-labelledby="t d">
+  <title id="t">Languages by commit</title>
+  <desc id="d">Donut chart of commits per language, one distinct color each.</desc>
+  <style>
+    .title { font: 600 15px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Helvetica, Arial, sans-serif; fill: #e6edf3; }
+    .subtitle { font: 400 11px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Helvetica, Arial, sans-serif; fill: #6e7681; }
+    .label { font: 400 12.5px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Helvetica, Arial, sans-serif; fill: #8b949e; }
+    .value { font: 500 12.5px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Helvetica, Arial, sans-serif; fill: #e6edf3; text-anchor: end; }
+    .big { font: 600 22px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Helvetica, Arial, sans-serif; fill: #e6edf3; text-anchor: middle; }
+    .unit { font: 400 8.5px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Helvetica, Arial, sans-serif; fill: #6e7681; text-anchor: middle; letter-spacing: 1.2px; }
+  </style>
+  <rect x="0.5" y="0.5" width="399" height="189" rx="10" fill="#0d1117" stroke="#262c36" />
+  <text x="28" y="32" class="title">Languages by commit</text>
+  <text x="28" y="48" class="subtitle">Commits grouped by each repo's primary language</text>
+  <circle cx="34" cy="67" r="5" fill="#4C7FBE" /><text x="50" y="71" class="label">TypeScript</text><text x="214" y="71" class="value">32</text>
+  <circle cx="34" cy="93" r="5" fill="#C4703F" /><text x="50" y="97" class="label">Jupyter Notebook</text><text x="214" y="97" class="value">7</text>
+  <circle cx="34" cy="119" r="5" fill="#7FA65C" /><text x="50" y="123" class="label">Python</text><text x="214" y="123" class="value">6</text>
+  <circle cx="34" cy="145" r="5" fill="#C2A44B" /><text x="50" y="149" class="label">JavaScript</text><text x="214" y="149" class="value">2</text>
+  <g>
+    <path d="M 312.00 52.00 A 56 56 0 1 1 261.20 131.57 L 282.07 121.89 A 33 33 0 1 0 312.00 75.00 Z" fill="#4C7FBE" stroke="#0d1117" stroke-width="2.5" />
+    <path d="M 261.20 131.57 A 56 56 0 0 1 262.89 81.09 L 283.06 92.14 A 33 33 0 0 0 282.07 121.89 Z" fill="#C4703F" stroke="#0d1117" stroke-width="2.5" />
+    <path d="M 262.89 81.09 A 56 56 0 0 1 297.21 53.99 L 303.28 76.17 A 33 33 0 0 0 283.06 92.14 Z" fill="#7FA65C" stroke="#0d1117" stroke-width="2.5" />
+    <path d="M 297.21 53.99 A 56 56 0 0 1 312.00 52.00 L 312.00 75.00 A 33 33 0 0 0 303.28 76.17 Z" fill="#C2A44B" stroke="#0d1117" stroke-width="2.5" />
+    <circle cx="312" cy="108" r="31" fill="#0d1117" />
+    <text x="312" y="109" class="big">47</text>
+    <text x="312" y="123" class="unit">COMMITS</text>
+  </g>
+</svg>

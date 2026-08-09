@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="112" viewBox="0 0 840 112" role="img" aria-labelledby="t">
+  <title id="t">Swarnim Mandal — AI engineer</title>
+  <style>
+    .name { font: 600 34px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Helvetica, Arial, sans-serif; fill: #e6edf3; letter-spacing: -0.4px; }
+    .role { font: 400 15px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Helvetica, Arial, sans-serif; fill: #8b949e; }
+  </style>
+  <rect width="840" height="112" fill="#0d1117" />
+  <rect x="40" y="30" width="3" height="52" rx="1.5" fill="#4C7FBE" />
+  <text x="62" y="58" class="name">Swarnim Mandal</text>
+  <text x="64" y="82" class="role">AI engineer — end-to-end machine learning systems</text>
+</svg>

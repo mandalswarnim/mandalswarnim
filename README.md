@@ -1,99 +1,61 @@
-<h1 align="center">Hi, I'm Swarnim Mandal 👋</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+  <img src="./assets/header-light.svg" alt="Swarnim Mandal — AI engineer, end-to-end machine learning systems" width="100%" />
+</picture>
 
-<p align="center">
-  <a href="https://swarnimmandal.me/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=40&lines=AI+Engineer+building+end-to-end+intelligent+systems;LLMs+%E2%9A%A1+Full-stack+%E2%9A%A1+Real+products;Always+experimenting%2C+always+shipping." alt="Typing SVG" />
-  </a>
+I build machine learning systems that end up in front of people — the model, the service
+around it, and the interface that makes it useful. Most of what's here started as a question
+I wanted answered and turned into something that runs.
+
+Currently working on predictive maintenance for military UAVs and ground vehicles.
+
+### Selected work
+
+**[uav-pdm-dashboard](https://github.com/mandalswarnim/uav-pdm-dashboard)**  
+Predictive-maintenance digital twin for UAVs. LSTM, Transformer and CNN models in PyTorch,
+trained on NASA C-MAPSS plus synthesized multirotor logs and served through FastAPI into a
+Next.js dashboard.
+
+**[ai-receptionist](https://github.com/mandalswarnim/ai-receptionist)**  
+A phone receptionist that answers, understands and follows up — Twilio, GPT-4o and SendGrid.
+
+**[Airfoil-Selector-for-Wind-Turbines](https://github.com/mandalswarnim/Airfoil-Selector-for-Wind-Turbines)**  
+Ranks airfoils for small wind turbines by annual energy production under a site's real wind,
+and explains why the winner wins.
+
+**[mobile-decentralized-voting](https://github.com/mandalswarnim/mobile-decentralized-voting)**  
+Decentralized voting on Ethereum — Solidity contracts behind an Express and React app.
+
+**[Portfolio-NextJS-Vercel](https://github.com/mandalswarnim/Portfolio-NextJS-Vercel)**  
+My portfolio site. [Live](https://portfolio-next-js-vercel-phi.vercel.app)
+
+### Working with
+
+Python · TypeScript · JavaScript · Solidity  
+PyTorch · TensorFlow · Hugging Face · Jupyter  
+Next.js · React · FastAPI · Django · Node  
+Docker · Git · Vercel
+
+### What I've been writing
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/languages-by-repo-dark.svg" />
+    <img src="./assets/languages-by-repo-light.svg" height="175" alt="Languages by repository: TypeScript 4, Python 4, Jupyter Notebook 3, JavaScript 2" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/languages-by-commit-dark.svg" />
+    <img src="./assets/languages-by-commit-light.svg" height="175" alt="Languages by commit: TypeScript 32, Jupyter Notebook 7, Python 6, JavaScript 2" />
+  </picture>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mandalswarnim&style=for-the-badge&color=000000&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mandalswarnim/mandalswarnim/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/mandalswarnim/mandalswarnim/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph" width="100%" />
+</picture>
 
----
+### Elsewhere
 
-### 🧠 About Me
+[Portfolio](https://swarnimmandal.me/) · [LinkedIn](https://www.linkedin.com/in/swarnim-mandal-678976259/) · [Email](mailto:mswarnim1@gmail.com)
 
-I build real-world AI systems ⚡  
-From LLMs to full-stack apps, I turn ideas into working products.  
-Always experimenting, always shipping.
-
-🚀 **Currently working on:** Predictive maintainability of military UAV drones and vehicles.
-
----
-
-### 🛠️ Tech Stack
-
-#### 🧠 AI / ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=for-the-badge&logo=huggingface)
-
-#### 🌐 Development
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-
-#### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mandalswarnim&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="./assets/top-languages-by-repo.svg" height="175" alt="Top languages by repo with distinct colors" />
-  <img src="./assets/top-languages-by-commit.svg" height="175" alt="Top languages by commit with distinct colors" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mandalswarnim&theme=github_dark" height="175" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mandalswarnim&theme=github_dark&utcOffset=0" height="175" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mandalswarnim&theme=github-dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" height="175" alt="GitHub streak stats" />
-</p>
-
-<!-- Trophy card disabled: github-profile-trophy.vercel.app is returning HTTP 402
-     (deployment over quota), which renders as a broken image. Re-enable when it recovers.
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mandalswarnim&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" />
-</p>
--->
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mandalswarnim/mandalswarnim/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-### 🌐 Find Me Here
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/swarnim-mandal-678976259/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://swarnimmandal.me/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:mswarnim1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>🎸 Off the clock: rock riffs, guitar strings, and building things that probably shouldn't work — but do.</i>
-</p>
+<sub>Off the clock: rock riffs, guitar strings, and building things that probably shouldn't work — but do.</sub>
