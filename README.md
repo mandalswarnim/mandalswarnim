@@ -3,7 +3,7 @@
   <img src="./assets/header-light.svg" alt="Swarnim Mandal — AI engineer, end-to-end machine learning systems" width="100%" />
 </picture>
 
-I build machine learning systems that end up in front of people — the model, the service
+I build machine learning systems that end up in front of people the model, the service
 around it, and the interface that makes it useful. Most of what's here started as a question
 I wanted answered and turned into something that runs.
 
