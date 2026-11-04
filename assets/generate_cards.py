@@ -96,9 +96,9 @@ def header():
 header()
 
 card("languages-by-repo", "Languages by repository",
-     "Primary language across 13 public repos",
-     [("TypeScript", 4), ("Python", 4), ("Jupyter Notebook", 3), ("JavaScript", 2)], 13, "REPOS")
+     "Primary language across 12 public repos",
+     [("Python", 4), ("TypeScript", 3), ("Jupyter Notebook", 3), ("JavaScript", 2)], 12, "REPOS")
 
 card("languages-by-commit", "Languages by commit",
      "Commits grouped by each repo's primary language",
-     [("TypeScript", 32), ("Jupyter Notebook", 7), ("Python", 6), ("JavaScript", 2)], 47, "COMMITS")
+     [("TypeScript", 75), ("Python", 13), ("Jupyter Notebook", 7), ("JavaScript", 2)], 97, "COMMITS")
