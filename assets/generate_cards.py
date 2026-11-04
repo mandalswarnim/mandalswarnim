@@ -13,6 +13,7 @@ COLORS = {
     "Jupyter Notebook": "#C4703F",
     "Python":           "#7FA65C",
     "JavaScript":       "#C2A44B",
+    "Swift":            "#B5576A",
 }
 
 THEMES = {
@@ -96,9 +97,9 @@ def header():
 header()
 
 card("languages-by-repo", "Languages by repository",
-     "Primary language across 12 public repos",
-     [("Python", 4), ("TypeScript", 3), ("Jupyter Notebook", 3), ("JavaScript", 2)], 12, "REPOS")
+     "Primary language across 13 public repos",
+     [("Python", 4), ("TypeScript", 3), ("Jupyter Notebook", 3), ("JavaScript", 2), ("Swift", 1)], 13, "REPOS")
 
 card("languages-by-commit", "Languages by commit",
      "Commits grouped by each repo's primary language",
-     [("TypeScript", 75), ("Python", 13), ("Jupyter Notebook", 7), ("JavaScript", 2)], 97, "COMMITS")
+     [("TypeScript", 75), ("Python", 13), ("Swift", 12), ("Jupyter Notebook", 7), ("JavaScript", 2)], 109, "COMMITS")

@@ -26,6 +26,11 @@ Meridian — a multi-tenant, metadata-driven CRM modeled on Salesforce. Real SOQ
 Salesforce-shape REST/Bulk/SOAP APIs, Flow, approval processes, a scheduler and a booking
 engine, shipped with a sample private members' club org.
 
+**[claude-meter](https://github.com/mandalswarnim/claude-meter)**  
+A native macOS widget and menu bar app showing Claude Code subscription usage — session,
+weekly limit and live reset countdowns — in Swift and WidgetKit, reading the sign-in Claude
+Code already stores. Nothing to paste, nothing to configure.
+
 **[Airfoil-Selector-for-Wind-Turbines](https://github.com/mandalswarnim/Airfoil-Selector-for-Wind-Turbines)**  
 Ranks airfoils for small wind turbines by annual energy production under a site's real wind,
 and explains why the winner wins.
@@ -39,9 +44,9 @@ hero portrait and colour-chapter design.
 
 ### Working with
 
-Python · TypeScript · JavaScript · Solidity  
+Python · TypeScript · JavaScript · Swift · Solidity  
 PyTorch · TensorFlow · Hugging Face · Jupyter  
-Next.js · React · FastAPI · Django · Node  
+Next.js · React · FastAPI · Django · Node · SwiftUI · WidgetKit  
 PostgreSQL · Twilio · OpenAI API  
 Docker · Kubernetes · Git · Vercel
 
@@ -50,11 +55,11 @@ Docker · Kubernetes · Git · Vercel
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/languages-by-repo-dark.svg" />
-    <img src="./assets/languages-by-repo-light.svg" height="175" alt="Languages by repository: Python 4, TypeScript 3, Jupyter Notebook 3, JavaScript 2" />
+    <img src="./assets/languages-by-repo-light.svg" height="175" alt="Languages by repository: Python 4, TypeScript 3, Jupyter Notebook 3, JavaScript 2, Swift 1" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/languages-by-commit-dark.svg" />
-    <img src="./assets/languages-by-commit-light.svg" height="175" alt="Languages by commit: TypeScript 75, Python 13, Jupyter Notebook 7, JavaScript 2" />
+    <img src="./assets/languages-by-commit-light.svg" height="175" alt="Languages by commit: TypeScript 75, Python 13, Swift 12, Jupyter Notebook 7, JavaScript 2" />
   </picture>
 </p>
 

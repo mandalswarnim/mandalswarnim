@@ -11,18 +11,20 @@
   </style>
   <rect x="0.5" y="0.5" width="399" height="189" rx="10" fill="#ffffff" stroke="#d8dee4" />
   <text x="28" y="32" class="title">Languages by repository</text>
-  <text x="28" y="48" class="subtitle">Primary language across 12 public repos</text>
+  <text x="28" y="48" class="subtitle">Primary language across 13 public repos</text>
   <circle cx="34" cy="67" r="5" fill="#7FA65C" /><text x="50" y="71" class="label">Python</text><text x="214" y="71" class="value">4</text>
   <circle cx="34" cy="93" r="5" fill="#4C7FBE" /><text x="50" y="97" class="label">TypeScript</text><text x="214" y="97" class="value">3</text>
   <circle cx="34" cy="119" r="5" fill="#C4703F" /><text x="50" y="123" class="label">Jupyter Notebook</text><text x="214" y="123" class="value">3</text>
   <circle cx="34" cy="145" r="5" fill="#C2A44B" /><text x="50" y="149" class="label">JavaScript</text><text x="214" y="149" class="value">2</text>
+  <circle cx="34" cy="171" r="5" fill="#B5576A" /><text x="50" y="175" class="label">Swift</text><text x="214" y="175" class="value">1</text>
   <g>
-    <path d="M 312.00 52.00 A 56 56 0 0 1 360.50 136.00 L 340.58 124.50 A 33 33 0 0 0 312.00 75.00 Z" fill="#7FA65C" stroke="#ffffff" stroke-width="2.5" />
-    <path d="M 360.50 136.00 A 56 56 0 0 1 284.00 156.50 L 295.50 136.58 A 33 33 0 0 0 340.58 124.50 Z" fill="#4C7FBE" stroke="#ffffff" stroke-width="2.5" />
-    <path d="M 284.00 156.50 A 56 56 0 0 1 263.50 80.00 L 283.42 91.50 A 33 33 0 0 0 295.50 136.58 Z" fill="#C4703F" stroke="#ffffff" stroke-width="2.5" />
-    <path d="M 263.50 80.00 A 56 56 0 0 1 312.00 52.00 L 312.00 75.00 A 33 33 0 0 0 283.42 91.50 Z" fill="#C2A44B" stroke="#ffffff" stroke-width="2.5" />
+    <path d="M 312.00 52.00 A 56 56 0 0 1 364.36 127.86 L 342.86 119.70 A 33 33 0 0 0 312.00 75.00 Z" fill="#7FA65C" stroke="#ffffff" stroke-width="2.5" />
+    <path d="M 364.36 127.86 A 56 56 0 0 1 298.60 162.37 L 304.10 140.04 A 33 33 0 0 0 342.86 119.70 Z" fill="#4C7FBE" stroke="#ffffff" stroke-width="2.5" />
+    <path d="M 298.60 162.37 A 56 56 0 0 1 256.41 101.25 L 279.24 104.02 A 33 33 0 0 0 304.10 140.04 Z" fill="#C4703F" stroke="#ffffff" stroke-width="2.5" />
+    <path d="M 256.41 101.25 A 56 56 0 0 1 285.98 58.41 L 296.66 78.78 A 33 33 0 0 0 279.24 104.02 Z" fill="#C2A44B" stroke="#ffffff" stroke-width="2.5" />
+    <path d="M 285.98 58.41 A 56 56 0 0 1 312.00 52.00 L 312.00 75.00 A 33 33 0 0 0 296.66 78.78 Z" fill="#B5576A" stroke="#ffffff" stroke-width="2.5" />
     <circle cx="312" cy="108" r="31" fill="#ffffff" />
-    <text x="312" y="109" class="big">12</text>
+    <text x="312" y="109" class="big">13</text>
     <text x="312" y="123" class="unit">REPOS</text>
   </g>
 </svg>
